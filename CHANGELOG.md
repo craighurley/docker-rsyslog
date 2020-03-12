@@ -2,8 +2,4 @@
 
 ## 1.0
 
-First release.
-
-Versions:
-
-    - alpine:3.10
+- alpine:3.11
