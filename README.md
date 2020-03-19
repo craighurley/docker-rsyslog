@@ -4,16 +4,10 @@
 
 Run rsyslog in a container.
 
-## Build
-
-```sh
-docker build -t rsyslog .
-```
-
 ## Run
 
 ```sh
-docker run --rm -d -v $PWD/log:/var/log -p 514:514 -p 514:514/udp --name rsyslog rsyslog
+docker run --rm -d -v $PWD/log:/var/log -p 514:514 -p 514:514/udp --name rsyslog craighurley/rsyslog
 ```
 
 Optional: create aliases for the container:
