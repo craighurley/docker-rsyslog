@@ -1,6 +1,7 @@
 # docker-rsyslog
 
 ![](https://github.com/craighurley/docker-rsyslog/workflows/Build%20and%20Publish%20to%20Docker%20Hub/badge.svg)
+![](https://github.com/craighurley/docker-rsyslog/workflows/Update%20Description%20on%20Docker%20Hub/badge.svg)
 
 Run rsyslog in a container.
 
